@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -97,7 +97,6 @@
 				1AF2E7E8FDA34C4531E3DDD3 /* Pods-Cocoacasts-TutorialUITests.debug.xcconfig */,
 				6C4E09B01BBCFA2C01AC2F18 /* Pods-Cocoacasts-TutorialUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
